@@ -1,1 +1,1 @@
-RasberryPI & rinux
+RasberryPI & Linux
